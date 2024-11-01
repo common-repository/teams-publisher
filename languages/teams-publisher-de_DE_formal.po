@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Teams Publisher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-27 13:13+0000\n"
+"PO-Revision-Date: 2024-06-18 07:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: German (Formal)\n"
+"Language: de_DE_formal\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.4\n"
+"X-Domain: teams-publisher"
+
+#: trads.php:10
+msgid "Add Channel"
+msgstr "Kanal hinzufügen"
+
+#. %s: URL of the documentation
+#: admin/partials/teams-publisher-admin-display.php:37
+#, php-format
+msgid ""
+"Allow publishing of your contents into a Teams channel, to create the URL %s"
+msgstr ""
+"Erlauben Sie die Veröffentlichung Ihrer Inhalte in einem Teams-Kanal, um die "
+"URL %s zu erstellen"
+
+#. %s: Id of the channel used
+#: admin/inc/ajax.php:38
+#, php-format
+msgid "Channel %s not found"
+msgstr "Kanal %s nicht gefunden"
+
+#: admin/partials/teams-publisher-admin-display.php:53
+msgid "Channel url"
+msgstr "Kanal-URL"
+
+#: admin/partials/teams-publisher-admin-display.php:42
+msgid "Channels"
+msgstr "Kanäle"
+
+#: admin/partials/teams-publisher-admin-display.php:14
+msgid "Channels saved"
+msgstr "Gespeicherte Kanäle"
+
+#: admin/partials/teams-publisher-admin-display.php:88
+msgid "Default image"
+msgstr "Standardbild"
+
+#: admin/partials/teams-publisher-admin-display.php:9
+msgid "Error: duplicate ids !"
+msgstr "Fehler: doppelte IDs!"
+
+#: admin/partials/teams-publisher-admin-display.php:26
+msgid "Error: Nonce !"
+msgstr "Fehler: Nonce!"
+
+#: admin/partials/teams-publisher-admin-display.php:98
+msgid "Force default image"
+msgstr "Standardbild erzwingen"
+
+#. URI of the plugin
+msgid "https://www.cownected.com"
+msgstr "https://www.cownected.com"
+
+#. Author URI of the plugin
+msgid "https://www.cownected.com/"
+msgstr "https://www.cownected.com/"
+
+#: admin/partials/teams-publisher-admin-display.php:33
+msgid "Microsoft Teams Publisher"
+msgstr "Microsoft Teams Publisher"
+
+#: admin/class-teams-publisher-admin.php:152
+msgid "Teams Publish"
+msgstr "Teams Publish"
+
+#. Name of the plugin
+msgid "Teams Publisher"
+msgstr "Teams Publisher"
+
+#: trads.php:8
+msgid "No channel selected!"
+msgstr "Kein Kanal ausgewählt!"
+
+#: trads.php:7
+msgid "No logs available"
+msgstr "Keine Protokolle verfügbar"
+
+#: trads.php:9
+msgid "Please register a channel"
+msgstr "Bitte registrieren Sie einen Kanal"
+
+#. %s: Id of the post used
+#: admin/inc/ajax.php:41
+msgid "Post %d not found"
+msgstr "Beitrag %d nicht gefunden"
+
+#: trads.php:6
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: admin/partials/teams-publisher-admin-display.php:38
+msgid "read this"
+msgstr "lesen Sie dies"
+
+#: admin/partials/teams-publisher-admin-display.php:120
+msgid "Save"
+msgstr "Retten"
+
+#. File used to generate the .po files with string from the .js not being picked up
+#: trads.php:5
+msgid "Select channels"
+msgstr "Kanäle auswählen"
+
+#: admin/partials/teams-publisher-admin-display.php:69
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/partials/teams-publisher-admin-display.php:21
+msgid "Settings are saved"
+msgstr "Einstellungen werden gespeichert"
+
+#. Description of the plugin
+msgid "Teams Share: Easily share your WordPress posts to Microsoft Teams."
+msgstr ""
+"Teams Share: Geben Sie Ihre WordPress-Beiträge ganz einfach an Microsoft "
+"Teams weiter.\n"
+
+#. Author of the plugin
+msgid "Thibaut Colson"
+msgstr "Thibaut Colson"
+
+#: admin/partials/teams-publisher-admin-display.php:93
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: admin/partials/teams-publisher-admin-display.php:108
+msgid "Use base64 image"
+msgstr "Base64-Image verwenden"

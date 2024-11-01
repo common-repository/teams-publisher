@@ -1,0 +1,36 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#teams-publisher-channel-table tr td.col_id {
+    width: 200px;
+}
+ul.mstp_logs li {
+    font-size: 14px;
+}
+ul.mstp_logs li svg{
+    margin: 3px;
+    float: left;
+}
+ul.mstp_logs li.success {
+    background: #e6fdea;
+}
+ul.mstp_logs li.pendig {
+    background: #b3d0ff;
+}
+ul.mstp_logs li.error {
+    background: #ffd8de;
+}
+#add_teams_channel, .remove_teams_channel{
+    display: flex !important;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.remove_teams_channel{
+    border-color: red !important;
+
+}
+.remove_teams_channel span{
+    color: red;
+}
